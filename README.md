@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working @[Swisscom Digital Experience (SDX)](https://sdx.swisscom.com/)
 
-- 🌱 I’m currently immersed in the world of **Design Systems, UI/UX, and Remix.run**
+- 🌱 I’m currently immersed in the world of **Design Systems**
 
 
 
