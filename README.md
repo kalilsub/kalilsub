@@ -4,12 +4,7 @@ Frontend developer and design engineer @[Swisscom Digital Experience (SDX)](http
 
 In my spare time I work through [Frontend Mentor challenges](https://github.com/Frontend-Mentor-Project-Solutions) to keep my CSS sharp and try out things I don't always get to use at work.
 
----
 
-### **Projects**
-
-[Frontend Mentor Solutions →](https://github.com/Frontend-Mentor-Project-Solutions)
-Challenges from newbie to guru — mostly vanilla CSS, always trying to do it properly.
 
 
 
